@@ -1,0 +1,71 @@
+{
+    "set": "base",
+    "type": "denizen",
+    "image_back": "/images/cards/card_back.webp",
+    "cards": [
+        {
+            "id": "denizen_001",
+            "name": "Wrestlers",
+            "suit": "order",
+            "image_front": "/images/cards/card_001.webp"
+        },
+        {
+            "id": "denizen_002",
+            "name": "Battle Honors",
+            "suit": "order",
+            "image_front": "/images/cards/card_002.webp"
+        },
+        {
+            "id": "denizen_003",
+            "name": "Bear Traps",
+            "suit": "order",
+            "image_front": "/images/cards/card_003.webp"
+        },
+        {
+            "id": "denizen_004",
+            "name": "Longbows",
+            "suit": "order",
+            "image_front": "/images/cards/card_004.webp"
+        },
+        {
+            "id": "denizen_005",
+            "name": "Keep",
+            "suit": "order",
+            "restriction": "site",
+            "locked": true,
+            "image_front": "/images/cards/card_005.webp"
+        },
+        {
+            "id": "denizen_006",
+            "name": "Pressgangs",
+            "suit": "order",
+            "image_front": "/images/cards/card_006.webp"
+        },
+        {
+            "id": "denizen_007",
+            "name": "Garrison",
+            "suit": "order",
+            "restriction": "site",
+            "image_front": "/images/cards/card_007.webp"
+        },
+        {
+            "id": "denizen_008",
+            "name": "Scouts",
+            "suit": "order",
+            "image_front": "/images/cards/card_008.webp"
+        },
+        {
+            "id": "denizen_009",
+            "name": "Alchemist",
+            "suit": "arcane",
+            "image_front": "/images/cards/card_009.webp"
+        },
+        {
+            "id": "denizen_010",
+            "name": "Martial Culture",
+            "suit": "order",
+            "restriction": "site",
+            "image_front": "/images/cards/card_010.webp"
+        }
+    ]
+}
