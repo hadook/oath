@@ -1,0 +1,301 @@
+{
+    "set": "base",
+    "type": "site",
+    "image_back": "/images/sites/site_back.webp",
+    "cards": [
+        {
+            "id": "site_01",
+            "name": "Ancient City",
+            "capacity": 2,
+            "defense": 1,
+            "reveal_prompt": {
+                "relics": 1
+            },
+            "recover_cost": {
+                "pay": {
+                    "favor": 3,
+                    "bank": "order"
+                }
+            },
+            "image_front": "/images/sites/site_01.webp"
+        },
+        {
+            "id": "site_02",
+            "name": "Barren Coast",
+            "capacity": 1,
+            "defense": 1,
+            "reveal_prompt": {
+                "relics": 1
+            },
+            "recover_cost": {
+                "pay": {
+                    "favor": 3,
+                    "bank": "nomad"
+                }
+            },
+            "image_front": "/images/sites/site_02.webp"
+        },
+        {
+            "id": "site_03",
+            "name": "Buried Giant",
+            "capacity": 2,
+            "defense": 1,
+            "reveal_prompt": {
+                "relics": 1
+            },
+            "recover_cost": {
+                "burn": {
+                    "secrets": 1
+                }
+            },
+            "image_front": "/images/sites/site_03.webp"
+        },
+        {
+            "id": "site_04",
+            "name": "Charming Valley",
+            "capacity": 3,
+            "defense": 1,
+            "image_front": "/images/sites/site_04.webp"
+        },
+        {
+            "id": "site_05",
+            "name": "Deep Woods",
+            "capacity": 2,
+            "defense": 1,
+            "reveal_prompt": {
+                "relics": 1
+            },
+            "recover_cost": {
+                "burn": {
+                    "secrets": 2
+                }
+            },
+            "image_front": "/images/sites/site_05.webp"
+        },
+        {
+            "id": "site_06",
+            "name": "Drowned City",
+            "capacity": 0,
+            "defense": 1,
+            "reveal_prompt": {
+                "secrets": 3,
+                "relics": 2
+            },
+            "recover_cost": {
+                "burn": {
+                    "favor": 2
+                }
+            },
+            "image_front": "/images/sites/site_06.webp"
+        },
+        {
+            "id": "site_07",
+            "name": "Fertile Valley",
+            "capacity": 3,
+            "defense": 1,
+            "image_front": "/images/sites/site_07.webp"
+        },
+        {
+            "id": "site_08",
+            "name": "Great Slum",
+            "capacity": 3,
+            "defense": 1,
+            "image_front": "/images/sites/site_08.webp"
+        },
+        {
+            "id": "site_09",
+            "name": "The Tribunal",
+            "capacity": 2,
+            "defense": 1,
+            "reveal_prompt": {
+                "relics": 1
+            },
+            "recover_cost": {
+                "pay": {
+                    "favor": 3,
+                    "bank": "order"
+                }
+            },
+            "image_front": "/images/sites/site_09.webp"
+        },
+        {
+            "id": "site_10",
+            "name": "Lush Coast",
+            "capacity": 3,
+            "defense": 1,
+            "image_front": "/images/sites/site_10.webp"
+        },
+        {
+            "id": "site_11",
+            "name": "Marshes",
+            "capacity": 2,
+            "defense": 1,
+            "reveal_prompt": {
+                "relics": 1
+            },
+            "recover_cost": {
+                "burn": {
+                    "secrets": 1
+                }
+            },
+            "image_front": "/images/sites/site_11.webp"
+        },
+        {
+            "id": "site_12",
+            "name": "Mine",
+            "capacity": 1,
+            "defense": 1,
+            "reveal_prompt": {
+                "favor": 3,
+                "relics": 1
+            },
+            "recover_cost": {
+                "pay": {
+                    "favor": 3,
+                    "bank": "discord"
+                }
+            },
+            "image_front": "/images/sites/site_12.webp"
+        },
+        {
+            "id": "site_13",
+            "name": "Mountain",
+            "capacity": 2,
+            "defense": 1,
+            "reveal_prompt": {
+                "relics": 1
+            },
+            "recover_cost": {
+                "burn": {
+                    "favor": 2
+                }
+            },
+            "image_front": "/images/sites/site_13.webp"
+        },
+        {
+            "id": "site_14",
+            "name": "Narrow Pass",
+            "capacity": 1,
+            "defense": 1,
+            "reveal_prompt": {
+                "relics": 1
+            },
+            "recover_cost": {
+                "pay": {
+                    "favor": 3,
+                    "bank": "arcane"
+                }
+            },
+            "image_front": "/images/sites/site_14.webp"
+        },
+        {
+            "id": "site_15",
+            "name": "Plains",
+            "capacity": 3,
+            "defense": 1,
+            "image_front": "/images/sites/site_15.webp"
+        },
+        {
+            "id": "site_16",
+            "name": "River",
+            "capacity": 2,
+            "defense": 1,
+            "image_front": "/images/sites/site_16.webp"
+        },
+        {
+            "id": "site_17",
+            "name": "Rocky Coast",
+            "capacity": 2,
+            "defense": 1,
+            "image_front": "/images/sites/site_17.webp"
+        },
+        {
+            "id": "site_18",
+            "name": "Salt Flats",
+            "capacity": 2,
+            "defense": 1,
+            "reveal_prompt": {
+                "favor": 2,
+                "secrets": 1
+            },
+            "image_front": "/images/sites/site_18.webp"
+        },
+        {
+            "id": "site_19",
+            "name": "Shrouded Wood",
+            "capacity": 2,
+            "defense": 1,
+            "reveal_prompt": {
+                "relics": 1
+            },
+            "recover_cost": {
+                "burn": {
+                    "secrets": 1
+                }
+            },
+            "image_front": "/images/sites/site_19.webp"
+        },
+        {
+            "id": "site_20",
+            "name": "Standing Stones",
+            "capacity": 2,
+            "defense": 1,
+            "reveal_prompt": {
+                "relics": 1
+            },
+            "recover_cost": {
+                "pay": {
+                    "favor": 3,
+                    "bank": "arcane"
+                }
+            },
+            "image_front": "/images/sites/site_20.webp"
+        },
+        {
+            "id": "site_21",
+            "name": "Steppe",
+            "capacity": 2,
+            "defense": 1,
+            "reveal_prompt": {
+                "relics": 1
+            },
+            "recover_cost": {
+                "pay": {
+                    "favor": 3,
+                    "bank": "nomad"
+                }
+            },
+            "image_front": "/images/sites/site_21.webp"
+        },
+        {
+            "id": "site_22",
+            "name": "The Hidden Palace",
+            "capacity": 2,
+            "defense": 1,
+            "reveal_prompt": {
+                "relics": 1
+            },
+            "recover_cost": {
+                "burn": {
+                    "secrets": 1
+                }
+            },
+            "image_front": "/images/sites/site_22.webp"
+        },
+        {
+            "id": "site_23",
+            "name": "Wastes",
+            "capacity": 1,
+            "defense": 1,
+            "reveal_prompt": {
+                "relics": 1
+            },
+            "recover_cost": {
+                "burn": {
+                    "secrets": 2
+                }
+            },
+            "image_front": "/images/sites/site_23.webp"
+        }
+    ]
+}

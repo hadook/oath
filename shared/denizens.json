@@ -66,6 +66,328 @@
             "suit": "order",
             "restriction": "site",
             "image_front": "/images/cards/card_010.webp"
+        },
+        {
+            "id": "denizen_011",
+            "name": "Errand Boy",
+            "suit": "beast",
+            "image_front": "/images/cards/card_011.webp"
+        },
+        {
+            "id": "denizen_012",
+            "name": "Mercenaries",
+            "suit": "discord",
+            "image_front": "/images/cards/card_012.webp"
+        },
+        {
+            "id": "denizen_013",
+            "name": "Tinker's Fair",
+            "suit": "hearth",
+            "restriction": "site",
+            "image_front": "/images/cards/card_013.webp"
+        },
+        {
+            "id": "denizen_014",
+            "name": "Rain Boots",
+            "suit": "nomad",
+            "image_front": "/images/cards/card_014.webp"
+        },
+        {
+            "id": "denizen_015",
+            "name": "A Small Favor",
+            "suit": "discord",
+            "restriction": "adviser",
+            "locked": true,
+            "image_front": "/images/cards/card_015.webp"
+        },
+        {
+            "id": "denizen_016",
+            "name": "A Second Wind",
+            "suit": "discord",
+            "image_front": "/images/cards/card_016.webp"
+        },
+        {
+            "id": "denizen_017",
+            "name": "Sleight of Hand",
+            "suit": "discord",
+            "restriction": "adviser",
+            "image_front": "/images/cards/card_017.webp"
+        },
+        {
+            "id": "denizen_018",
+            "name": "Key to the City",
+            "suit": "discord",
+            "restriction": "site",
+            "image_front": "/images/cards/card_018.webp"
+        },
+        {
+            "id": "denizen_019",
+            "name": "Scryer",
+            "suit": "discord",
+            "image_front": "/images/cards/card_019.webp"
+        },
+        {
+            "id": "denizen_020",
+            "name": "Disgraced Captain",
+            "suit": "discord",
+            "image_front": "/images/cards/card_020.webp"
+        },
+        {
+            "id": "denizen_021",
+            "name": "Naysayers",
+            "suit": "discord",
+            "restriction": "adviser",
+            "image_front": "/images/cards/card_021.webp"
+        },
+        {
+            "id": "denizen_022",
+            "name": "Book Burning",
+            "suit": "discord",
+            "image_front": "/images/cards/card_022.webp"
+        },
+        {
+            "id": "denizen_023",
+            "name": "Ancient Binding",
+            "suit": "nomad",
+            "image_front": "/images/cards/card_023.webp"
+        },
+        {
+            "id": "denizen_024",
+            "name": "Horse Archers",
+            "suit": "nomad",
+            "image_front": "/images/cards/card_024.webp"
+        },
+        {
+            "id": "denizen_025",
+            "name": "Warning Signals",
+            "suit": "nomad",
+            "image_front": "/images/cards/card_025.webp"
+        },
+        {
+            "id": "denizen_026",
+            "name": "Elders",
+            "suit": "nomad",
+            "image_front": "/images/cards/card_026.webp"
+        },
+        {
+            "id": "denizen_027",
+            "name": "The Gathering",
+            "suit": "nomad",
+            "restriction": "site",
+            "image_front": "/images/cards/card_027.webp"
+        },
+        {
+            "id": "denizen_028",
+            "name": "Faithful Friend",
+            "suit": "nomad",
+            "restriction": "site",
+            "locked": true,
+            "image_front": "/images/cards/card_028.webp"
+        },
+        {
+            "id": "denizen_029",
+            "name": "Tents",
+            "suit": "nomad",
+            "image_front": "/images/cards/card_029.webp"
+        },
+        {
+            "id": "denizen_030",
+            "name": "Great Herd",
+            "suit": "nomad",
+            "restriction": "site",
+            "image_front": "/images/cards/card_030.webp"
+        },
+        {
+            "id": "denizen_031",
+            "name": "Fire Talkers",
+            "suit": "arcane",
+            "image_front": "/images/cards/card_031.webp"
+        },
+        {
+            "id": "denizen_032",
+            "name": "Magician's Code",
+            "suit": "arcane",
+            "image_front": "/images/cards/card_032.webp"
+        },
+        {
+            "id": "denizen_033",
+            "name": "Spirit Snare",
+            "suit": "arcane",
+            "image_front": "/images/cards/card_033.webp"
+        },
+        {
+            "id": "denizen_034",
+            "name": "Wizard School",
+            "suit": "arcane",
+            "image_front": "/images/cards/card_034.webp"
+        },
+        {
+            "id": "denizen_035",
+            "name": "Dazzle",
+            "suit": "arcane",
+            "image_front": "/images/cards/card_035.webp"
+        },
+        {
+            "id": "denizen_036",
+            "name": "Acting Troupe",
+            "suit": "arcane",
+            "restriction": "adviser",
+            "image_front": "/images/cards/card_036.webp"
+        },
+        {
+            "id": "denizen_037",
+            "name": "Taming Charm",
+            "suit": "arcane",
+            "image_front": "/images/cards/card_037.webp"
+        },
+        {
+            "id": "denizen_038",
+            "name": "Inquisitor",
+            "suit": "arcane",
+            "image_front": "/images/cards/card_038.webp"
+        },
+        {
+            "id": "denizen_039",
+            "name": "Wolves",
+            "suit": "beast",
+            "image_front": "/images/cards/card_039.webp"
+        },
+        {
+            "id": "denizen_040",
+            "name": "Animal Playmates",
+            "suit": "beast",
+            "restriction": "adviser",
+            "image_front": "/images/cards/card_040.webp"
+        },
+        {
+            "id": "denizen_041",
+            "name": "True Names",
+            "suit": "beast",
+            "restriction": "adviser",
+            "image_front": "/images/cards/card_041.webp"
+        },
+        {
+            "id": "denizen_042",
+            "name": "The Old Oak",
+            "suit": "beast",
+            "restriction": "site",
+            "image_front": "/images/cards/card_042.webp"
+        },
+        {
+            "id": "denizen_043",
+            "name": "Forest Paths",
+            "suit": "beast",
+            "image_front": "/images/cards/card_043.webp"
+        },
+        {
+            "id": "denizen_044",
+            "name": "Long-Lost Heir",
+            "suit": "beast",
+            "restriction": "adviser",
+            "locked": true,
+            "image_front": "/images/cards/card_044.webp"
+        },
+        {
+            "id": "denizen_045",
+            "name": "Rangers",
+            "suit": "beast",
+            "image_front": "/images/cards/card_045.webp"
+        },
+        {
+            "id": "denizen_046",
+            "name": "Roving Terror",
+            "suit": "beast",
+            "restriction": "site",
+            "image_front": "/images/cards/card_046.webp"
+        },
+        {
+            "id": "denizen_047",
+            "name": "Wayside Inn",
+            "suit": "hearth",
+            "restriction": "site",
+            "image_front": "/images/cards/card_047.webp"
+        },
+        {
+            "id": "denizen_048",
+            "name": "Extra Provisions",
+            "suit": "hearth",
+            "image_front": "/images/cards/card_048.webp"
+        },
+        {
+            "id": "denizen_049",
+            "name": "Memory of Home",
+            "suit": "hearth",
+            "image_front": "/images/cards/card_049.webp"
+        },
+        {
+            "id": "denizen_050",
+            "name": "Welcoming Party",
+            "suit": "hearth",
+            "restriction": "site",
+            "image_front": "/images/cards/card_050.webp"
+        },
+        {
+            "id": "denizen_051",
+            "name": "Traveling Doctor",
+            "suit": "hearth",
+            "image_front": "/images/cards/card_051.webp"
+        },
+        {
+            "id": "denizen_052",
+            "name": "Storyteller",
+            "suit": "hearth",
+            "image_front": "/images/cards/card_052.webp"
+        },
+        {
+            "id": "denizen_053",
+            "name": "Armed Mob",
+            "suit": "hearth",
+            "restriction": "site",
+            "image_front": "/images/cards/card_053.webp"
+        },
+        {
+            "id": "denizen_054",
+            "name": "Tavern Songs",
+            "suit": "hearth",
+            "image_front": "/images/cards/card_054.webp"
+        },
+        {
+            "id": "denizen_055",
+            "name": "Secret Signal",
+            "suit": "arcane",
+            "restriction": "adviser",
+            "image_front": "/images/cards/card_055.webp"
+        },
+        {
+            "id": "denizen_056",
+            "name": "Augury",
+            "suit": "arcane",
+            "image_front": "/images/cards/card_056.webp"
+        },
+        {
+            "id": "denizen_057",
+            "name": "Rusting Ray",
+            "suit": "arcane",
+            "image_front": "/images/cards/card_057.webp"
+        },
+        {
+            "id": "denizen_058",
+            "name": "Portal",
+            "suit": "arcane",
+            "restriction": "site",
+            "image_front": "/images/cards/card_058.webp"
+        },
+        {
+            "id": "denizen_059",
+            "name": "Billowing Fog",
+            "suit": "arcane",
+            "image_front": "/images/cards/card_059.webp"
+        },
+        {
+            "id": "denizen_060",
+            "name": "Kindred Warriors",
+            "suit": "arcane",
+            "image_front": "/images/cards/card_060.webp"
         }
     ]
 }
