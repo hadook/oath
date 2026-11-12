@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import json
-from copy import deepcopy
 from dataclasses import dataclass
 from enum import StrEnum
 from pathlib import Path
@@ -39,7 +38,7 @@ class CardRegistry:
 
     def get(self, card_id: str) -> Card:
         try:
-            return deepcopy(self.cards[card_id])
+            return self.cards[card_id]
         except KeyError as error:
             raise KeyError(f"Card {card_id!r} not found in registry.") from error
 
